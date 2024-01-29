@@ -31,4 +31,4 @@ function LoginPage() {
     )
 }
 
-export default SiteFooter;
+export default LoginPage;
