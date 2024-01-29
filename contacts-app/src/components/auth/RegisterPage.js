@@ -40,4 +40,4 @@ function Registerpage() {
     )
 }
 
-export default SiteFooter;
+export default Registerpage;
